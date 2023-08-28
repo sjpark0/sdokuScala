@@ -1265,3 +1265,5 @@ Required: (Int, sdoku.SdokuCell)
 2023.08.28 19:14:34 INFO  time: compiled sdokuscala in 3.06s
 2023.08.28 19:15:05 INFO  compiling sdokuscala (1 scala source)
 2023.08.28 19:15:06 INFO  time: compiled sdokuscala in 1.27s
+8월 28, 2023 9:34:32 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTrace
