@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(e8e07edb-551c-4361-b041-424d659dc5a5), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sjpark/Projects/sdokuScala/target/scala-3.1.0/classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 3 s, completed 2023. 8. 27. 오후 11:23:39[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

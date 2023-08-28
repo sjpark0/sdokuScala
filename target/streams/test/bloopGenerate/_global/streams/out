@@ -1,0 +1,4 @@
+[debug] [sdokuscala-test] Classpath dependencies List()
+[debug] [sdokuscala-test] Dependencies from configurations List(sdokuscala)
+[debug] Bloop wrote the configuration of project 'sdokuscala-test' to '/Users/sjpark/Projects/sdokuScala/.bloop/sdokuscala-test.json'
+[success] Generated .bloop/sdokuscala-test.json

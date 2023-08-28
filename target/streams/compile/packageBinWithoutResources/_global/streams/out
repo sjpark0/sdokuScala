@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/sjpark/Projects/ScalaProgramming/Part1/Week1/example/target/scala-3.1.0/progfun1-example-without-resources_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sjpark/Projects/ScalaProgramming/Part1/Week1/example/target/scala-3.1.0/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Lists$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sjpark/Projects/ScalaProgramming/Part1/Week1/example/target/scala-3.1.0/classes/example/Lists$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Lists.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sjpark/Projects/ScalaProgramming/Part1/Week1/example/target/scala-3.1.0/classes/example/Lists.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Lists.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sjpark/Projects/ScalaProgramming/Part1/Week1/example/target/scala-3.1.0/classes/example/Lists.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
