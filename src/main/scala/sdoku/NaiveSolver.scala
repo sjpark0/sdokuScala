@@ -4,7 +4,6 @@ object NaiveSolver extends Solver{
   def SolveSdoku(sdoku : SdokuCell) : SdokuCell = {
     val emptyList = Solver.MakeEmptyList(sdoku)
     val result = SolveSdoku1(sdoku, emptyList)
-    println(result._1)
     result._2
   }
   
