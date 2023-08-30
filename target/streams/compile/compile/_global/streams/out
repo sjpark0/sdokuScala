@@ -1,6 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/sjpark/Projects/sdokuScala/src/main/scala/sdoku/NaiveSolver.scala:15:36 [0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m      [33mif[0m availList.isEmpty [33mthen[0m ([31m0[0m, SdokuCell()) [33melse[0m{[0m
-[0m[[0m[31merror[0m] [0m[0m   |                                    [31m^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m   |                                    Not found: SdokuCell[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,6 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /Users/sjpark/Projects/sdokuScala/src/test/scala/sdoku/SdokuTest.scala:4:17 [0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m4 |[0m[33mval[0m [36mtmp[0m = Solver.Test[0m
-[0m[[0m[31merror[0m] [0m[0m  |          [31m^^^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m  |value Test is not a member of object sdoku.Solver - did you mean Solver.wait?[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
